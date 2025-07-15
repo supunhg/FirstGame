@@ -43,6 +43,10 @@ The game features a knight character navigating through platforms, collecting co
 📁 scripts/        # GDScript files
 ```
 
+### Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (473)" src="https://github.com/user-attachments/assets/9836cf75-79f1-48a7-804c-ef37d095a424" />
+
 ## 🎨 Assets
 
 All assets are provided by [Brackeys](https://www.youtube.com/@Brackeys) as part of the tutorial series. Huge thanks for making these freely available for learning!
