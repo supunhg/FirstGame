@@ -30,7 +30,7 @@ The game features a knight character navigating through platforms, collecting co
 **Engine**: Godot 4.x  
 **Language**: GDScript  
 **Genre**: 2D Platformer  
-**Development Status**: 25% Complete (as of July 16, 2025)
+**Development Status**: 28% Complete (as of July 16, 2025)
 
 ### Project Structure
 ```
@@ -53,7 +53,7 @@ All assets are provided by [Brackeys](https://www.youtube.com/@Brackeys) as part
 
 ## 🚧 Current Status
 
-This project is currently **25% complete** and serves as a learning exercise. Features implemented so far:
+This project is currently **28% complete** and serves as a learning exercise. Features implemented so far:
 
 - ✅ Basic player movement and jumping
 - ✅ Coin collection system
@@ -61,6 +61,7 @@ This project is currently **25% complete** and serves as a learning exercise. Fe
 - ✅ Platform physics
 - ✅ Audio integration
 - ✅ Scene management
+- ✅ Background visuals for game map
 
 ## 🎓 Learning Resources
 
@@ -78,7 +79,8 @@ This is my learning project, but feel free to:
 ## 📝 Development Log
 
 **July 15, 2025**: Started development  
-**July 16, 2025**: Basic mechanics and scenes implemented (25% complete)
+**July 16, 2025**: Basic mechanics and scenes implemented (25% complete)  
+**July 16, 2025**: Added background visuals to game map (28% complete)
 
 ## 📄 License
 
