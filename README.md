@@ -6,6 +6,10 @@ My first game created with Godot Engine, following the [Brackeys Godot Tutorial]
 
 This is a 2D platformer game built as a learning project to understand the fundamentals of game development using Godot Engine. The project covers core concepts like player movement, collision detection, enemy AI, collectibles, and more.
 
+## 📌 Progress Note
+
+Project initialized and ready to go! Haven't built anything yet—just setting up the foundation. Will start building when inspiration strikes. 🚀
+
 ## 🛠️ Built With
 
 - **Engine:** Godot Engine (Version: _TBD_)
